@@ -6,7 +6,7 @@ namespace CSharpOOP.Interfaces
 {
     interface ISpellcaster
     {
-        int Mana { get; set; }
+        int Mana { get; }
 
         void CastSpell(Character character);
     }

@@ -31,19 +31,19 @@ namespace Characters.Spellcasters
         //shenyi: lamda expression make readonly property.
         //compare private, protected and public
 
-        //public int
+        public int Mana => this.mana;
 
-        public int Mana
-        {
-            get
-            {
-                return this.mana;
-            }
-            set
-            {
-                this.mana = value;
-            }    
-        }
+        //public int Mana
+        //{
+        //    get
+        //    {
+        //        return this.mana;
+        //    }
+        //    set
+        //    {
+        //        this.mana = value;
+        //    }
+        //}
 
         public Spell MySpell
         {
@@ -62,14 +62,14 @@ namespace Characters.Spellcasters
         {
             
         }
-        public Mage(int i)
-        {
+        //public Mage(int i)
+        //{
 
-        }
+        //}
 
         public Mage()
         {
-            this.Mana = 100;
+            mana = 100;
             this.MySpell = new Spell();
         }
 
@@ -79,11 +79,12 @@ namespace Characters.Spellcasters
             System.Console.WriteLine("override moving");
         }
 
-        public void Addition(int firstNumber, int secondNumber)
+        public override int Addition(int firstNumber, int secondNumber)
         {
             int sum = firstNumber + secondNumber;
             int modifiedSum = sum + 10;
             Console.WriteLine(modifiedSum-10);
+            return modifiedSum;
         }
 
         public void CastSpell(Character character)
