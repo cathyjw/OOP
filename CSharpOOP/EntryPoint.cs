@@ -32,6 +32,7 @@ public class EntryPoint
         Console.WriteLine(firstMega.Mana);
 
         //firstMega.Move(10000);
+        //public type can be accessed in same assembly
         firstMega.Addition(1, 2);
         Console.WriteLine(firstWarrior.Age);
 

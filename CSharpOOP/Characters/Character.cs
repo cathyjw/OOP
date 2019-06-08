@@ -9,6 +9,9 @@ namespace Characters
         private string name;
         private int healthPoints;
         private int weight;
+        
+        //protected type can be accessed in same class and derived class
+        //age can be used in Mage
         protected int age;
 
         public string Name
