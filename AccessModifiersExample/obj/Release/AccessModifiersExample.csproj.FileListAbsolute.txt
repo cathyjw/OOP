@@ -1,0 +1,12 @@
+G:\CSharp OOP\Visual Studio Projects\04. Access Modifiers\AccessModifiersExample\obj\Release\AccessModifiersExample.csprojResolveAssemblyReference.cache
+E:\Courses\OOP\04. Access Modifiers\AccessModifiersExample\bin\Release\AccessModifiersExample.exe.config
+E:\Courses\OOP\04. Access Modifiers\AccessModifiersExample\bin\Release\AccessModifiersExample.exe
+E:\Courses\OOP\04. Access Modifiers\AccessModifiersExample\bin\Release\AccessModifiersExample.pdb
+E:\Courses\OOP\04. Access Modifiers\AccessModifiersExample\bin\Release\CSharpOOP.exe
+E:\Courses\OOP\04. Access Modifiers\AccessModifiersExample\bin\Release\CSharpOOP.pdb
+E:\Courses\OOP\04. Access Modifiers\AccessModifiersExample\bin\Release\CSharpOOP.exe.config
+E:\Courses\OOP\04. Access Modifiers\AccessModifiersExample\obj\Release\AccessModifiersExample.csprojAssemblyReference.cache
+E:\Courses\OOP\04. Access Modifiers\AccessModifiersExample\obj\Release\AccessModifiersExample.csproj.CoreCompileInputs.cache
+E:\Courses\OOP\04. Access Modifiers\AccessModifiersExample\obj\Release\AccessModifiersExample.csproj.CopyComplete
+E:\Courses\OOP\04. Access Modifiers\AccessModifiersExample\obj\Release\AccessModifiersExample.exe
+E:\Courses\OOP\04. Access Modifiers\AccessModifiersExample\obj\Release\AccessModifiersExample.pdb

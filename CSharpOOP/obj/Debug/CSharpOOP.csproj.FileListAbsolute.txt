@@ -1,0 +1,13 @@
+c:\users\darkbound\documents\visual studio 2017\Projects\CSharpOOP\CSharpOOP\bin\Debug\CSharpOOP.exe.config
+c:\users\darkbound\documents\visual studio 2017\Projects\CSharpOOP\CSharpOOP\bin\Debug\CSharpOOP.exe
+c:\users\darkbound\documents\visual studio 2017\Projects\CSharpOOP\CSharpOOP\bin\Debug\CSharpOOP.pdb
+c:\users\darkbound\documents\visual studio 2017\Projects\CSharpOOP\CSharpOOP\obj\Debug\CSharpOOP.csprojResolveAssemblyReference.cache
+c:\users\darkbound\documents\visual studio 2017\Projects\CSharpOOP\CSharpOOP\obj\Debug\CSharpOOP.exe
+c:\users\darkbound\documents\visual studio 2017\Projects\CSharpOOP\CSharpOOP\obj\Debug\CSharpOOP.pdb
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\bin\Debug\CSharpOOP.exe.config
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\bin\Debug\CSharpOOP.exe
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\bin\Debug\CSharpOOP.pdb
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\obj\Debug\CSharpOOP.csprojAssemblyReference.cache
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\obj\Debug\CSharpOOP.csproj.CoreCompileInputs.cache
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\obj\Debug\CSharpOOP.exe
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\obj\Debug\CSharpOOP.pdb

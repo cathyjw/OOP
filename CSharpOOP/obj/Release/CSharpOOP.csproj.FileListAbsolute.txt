@@ -1,0 +1,19 @@
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\bin\Release\CSharpOOP.exe.config
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\bin\Release\CSharpOOP.exe
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\bin\Release\CSharpOOP.pdb
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\obj\Release\CSharpOOP.exe
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\obj\Release\CSharpOOP.pdb
+C:\Users\Darkbound\Documents\Visual Studio 2017\Projects\CSharpOOP\CSharpOOP\obj\Release\CSharpOOP.csprojResolveAssemblyReference.cache
+G:\CSharp OOP\Visual Studio Projects\04. Access Modifiers\CSharpOOP\bin\Release\CSharpOOP.exe.config
+G:\CSharp OOP\Visual Studio Projects\04. Access Modifiers\CSharpOOP\bin\Release\CSharpOOP.exe
+G:\CSharp OOP\Visual Studio Projects\04. Access Modifiers\CSharpOOP\bin\Release\CSharpOOP.pdb
+G:\CSharp OOP\Visual Studio Projects\04. Access Modifiers\CSharpOOP\obj\Release\CSharpOOP.csprojResolveAssemblyReference.cache
+G:\CSharp OOP\Visual Studio Projects\04. Access Modifiers\CSharpOOP\obj\Release\CSharpOOP.exe
+G:\CSharp OOP\Visual Studio Projects\04. Access Modifiers\CSharpOOP\obj\Release\CSharpOOP.pdb
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\bin\Release\CSharpOOP.exe.config
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\bin\Release\CSharpOOP.exe
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\bin\Release\CSharpOOP.pdb
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\obj\Release\CSharpOOP.csprojAssemblyReference.cache
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\obj\Release\CSharpOOP.csproj.CoreCompileInputs.cache
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\obj\Release\CSharpOOP.exe
+E:\Courses\OOP\04. Access Modifiers\CSharpOOP\obj\Release\CSharpOOP.pdb
